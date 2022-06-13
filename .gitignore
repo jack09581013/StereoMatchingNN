@@ -1,9 +1,8 @@
 /doc
 /model
-log
-__pycache__
 /.idea
 /result
 /GANet/extensions/build/
 /GANet/extensions/ganet_lib.egg-info/
 /GANet/extensions/dist/
+__pycache__
