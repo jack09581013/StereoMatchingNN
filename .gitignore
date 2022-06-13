@@ -2,9 +2,8 @@
 /model
 log
 __pycache__
-.idea
-GANet/extensions/build/
-GANet/extensions/ganet_lib.egg-info/
-GANet/extensions/dist/
-result
-save
+/.idea
+/result
+/GANet/extensions/build/
+/GANet/extensions/ganet_lib.egg-info/
+/GANet/extensions/dist/
